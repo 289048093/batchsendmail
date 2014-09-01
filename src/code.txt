@@ -1,0 +1,33 @@
+ <table border="0" cellpadding="0" cellspacing="0" class="" height="1061" width="990">
+	<tbody>
+		<tr><td colspan="3"><center>如果邮件不能浏览请&nbsp;<a href="http://yijushang.tmall.com/p/rd130982.htm">点击这里</a></center></td></tr>
+		<tr>
+			<td colspan="3">
+				<img alt="" height="644" src="http://img03.taobaocdn.com/imgextra/i3/1675300784/T2hDnXXsBXXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="990" /></td>
+		</tr>
+		<tr>
+			<td>
+				<img alt="" height="261" src="http://img01.taobaocdn.com/imgextra/i1/1675300784/T2zqnXXz4XXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="372" /></td>
+			<td>
+				<img alt="" height="261" src="http://img02.taobaocdn.com/imgextra/i2/1675300784/T2y9y_Xx0aXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="288" /></td>
+			<td>
+				<img alt="" height="261" src="http://img01.taobaocdn.com/imgextra/i1/1675300784/T2u8m.XCRXXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="330" /></td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://weitao.taobao.com/tzh/home.htm?spm=a1z10.4.w5003-5638420859.4.Y4ukhR&amp;tzhUserId=1675300784&amp;scene=taobao_shop" target="_blank"><img alt="" height="41" src="http://img02.taobaocdn.com/imgextra/i2/1675300784/T26ybXXvVXXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="372" /></a></td>
+			<td>
+				<a href="http://weitao.taobao.com/tzh/home.htm?spm=a1z10.4.w5003-5638420859.4.Y4ukhR&amp;tzhUserId=1675300784&amp;scene=taobao_shop" target="_blank"><img alt="" height="41" src="http://img03.taobaocdn.com/imgextra/i3/1675300784/T26li_Xy0aXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="288" /></a></td>
+			<td>
+				<a href="http://weitao.taobao.com/tzh/home.htm?spm=a1z10.4.w5003-5638420859.4.Y4ukhR&amp;tzhUserId=1675300784&amp;scene=taobao_shop" target="_blank"><img alt="" height="41" src="http://img03.taobaocdn.com/imgextra/i3/1675300784/T2Rdu.XslaXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="330" /></a></td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://detail.tmall.com/item.htm?spm=a1z10.4.w5003-5638420859.1.obxbPq&amp;id=35402272034&amp;rn=37c0713d7a2ced1241a1949bd6f699ec&amp;scene=taobao_shop" target="_blank"><img alt="" height="115" src="http://img03.taobaocdn.com/imgextra/i3/1675300784/T2y9O_XypaXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="372" /></a></td>
+			<td>
+				<a href="http://detail.tmall.com/item.htm?spm=a1z10.4.w5003-5638420859.2.obxbPq&amp;id=36980500012&amp;rn=5e751a0c9114906bb03eaf4a50fb0973&amp;scene=taobao_shop" target="_blank"><img alt="" height="115" src="http://img01.taobaocdn.com/imgextra/i1/1675300784/T2bi0fXD4aXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="288" /></a></td>
+			<td>
+				<a href="http://detail.tmall.com/item.htm?spm=a1z10.4.w5003-5638420859.3.obxbPq&amp;id=20684151152&amp;rn=d557441bef4ca90ebb19fbecd2e345c5&amp;scene=taobao_shop" target="_blank"><img alt="" height="115" src="http://img03.taobaocdn.com/imgextra/i3/1675300784/T2C3W.XpBaXXXXXXXX-1675300784.jpg" style="float:none;margin:0px;" width="330" /></a></td>
+		</tr>
+	</tbody>
+</table>

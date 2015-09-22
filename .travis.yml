@@ -4,7 +4,6 @@ jdk:
 os:
 - linux
 cache:
-  bundler: true
   apt: true
   directories:
   - $HOME/.m2
